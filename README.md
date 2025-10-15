@@ -31,9 +31,35 @@ ExpenseApp/
 
 ---
 
+
 ## 🚀 Setup & Run
 
 ### 1) Clone and enter the project
 ```bash
 git clone https://github.com/saimali314/ExpenseApp.git
 cd ExpenseApp
+```
+### 2️) Create & activate a virtual environment
+
+<b>Windows (PowerShell):</b>
+
+python -m venv .venv
+.\.venv\Scripts\activate
+
+
+<b>macOS/Linux:</b>
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+### 3) Install dependencies
+pip install -r requirements.txt
+
+### 4) Run the application
+python main.py
+
+---
+
+## 🖼️ Screenshots
+![Main Window](screenshots/ExpenseApp.png)
+![Main Window](screenshots/ExpenseApp2.png)
