@@ -61,5 +61,5 @@ python main.py
 ---
 
 ## 🖼️ Screenshots
-![Main Window](screenshots/ExpenseApp.png)
-![Main Window](screenshots/ExpenseApp2.png)
+![Main Window](Screenshots/ExpenseApp.png)
+![Main Window](Screenshots/ExpenseApp2.png)
